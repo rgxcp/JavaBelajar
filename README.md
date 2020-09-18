@@ -3,6 +3,9 @@
 
 **ID**: Kumpulan program bahasa Java yang dibuat untuk mata kuliah Pemrograman Berorientasi Objek, Universitas Gunadarma, tahun ajaran PTA 2019/2020.
 
+## Status
+END OF LIFE
+
 ## Requirements
 1. Java SE 13
 
