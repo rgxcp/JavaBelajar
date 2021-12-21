@@ -1,4 +1,4 @@
-# Java - Belajar
+# ☕ Java - Belajar
 **EN**: Collection of Java language programs created for Object Oriented Programming courses, Gunadarma University, academic year PTA 2019/2020.
 
 **ID**: Kumpulan program bahasa Java yang dibuat untuk mata kuliah Pemrograman Berorientasi Objek, Universitas Gunadarma, tahun ajaran PTA 2019/2020.
